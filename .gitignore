@@ -3,3 +3,9 @@
 Debug
 
 /ipch
+
+SwarmGL
+
+.DS_Store
+
+Globals.json
